@@ -8,12 +8,14 @@ Languages and Frameworks:
 -Python 3.0+
 -Django Web and Django REST Framework
 -FastAPI
--JS (Fundamentals)
--JQuery
+-JS
+-React
+-JQuery, AJAX
 -Postgresql, Mysql
 -MongoDB
 -Redis
 
-Tools:
+Others:
 -Docker
 -Github
+-Postman
