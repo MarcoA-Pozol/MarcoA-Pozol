@@ -13,7 +13,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-6DB33F?style=for-the-badge&logo=MongoDB&logoColor=black) 
 ![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=Redis&logoColor=red) 
-![Jenkins](https://img.shields.io/badge/Jenkins%20Batch-6DB33F?style=for-the-badge&logo=Jenkins&logoColor=black) 
+![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=orange) 
 ![PyTest](https://img.shields.io/badge/Pytest%20CD-white?style=for-the-badge&logo=Pytest&logoColor=orange)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=Swagger&logoColor=green)
