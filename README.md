@@ -16,7 +16,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=orange) 
 ![PyTest](https://img.shields.io/badge/Pytest%20CD-white?style=for-the-badge&logo=Pytest&logoColor=orange)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=Swagger&logoColor=green)
+![Swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoA-Pozol&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
