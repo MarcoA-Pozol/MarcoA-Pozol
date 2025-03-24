@@ -21,9 +21,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoA-Pozol&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoA-Pozol&layout=pie&theme=purple)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ----------------------
 
 ### <img align="center" width="70" src="https://i.pinimg.com/originals/0d/c9/68/0dc968448592a7d533096b74c263cc40.gif" /> Contact with me
