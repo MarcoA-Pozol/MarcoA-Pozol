@@ -7,9 +7,9 @@
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-4E9BCD?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![React](https://img.shields.io/badge/React-royalblue?style=for-the-badge&logo=React&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-?style=for-the-badge&logo=Flask&logoColor=black)
-![Docker](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
-![PostgreSQL](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Python&logoColor=blue)
+![Docker](https://img.shields.io/badge/Docker-6DB33F?style=for-the-badge&logo=Docker&logoColor=black) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dodgeblue?style=for-the-badge&logo=Postgres&logoColor=white) 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-6DB33F?style=for-the-badge&logo=MongoDB&logoColor=black) 
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=red) 
