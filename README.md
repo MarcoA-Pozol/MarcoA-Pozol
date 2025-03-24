@@ -6,7 +6,7 @@
 
 ![Django](https://img.shields.io/badge/Cassandra-white?style=for-the-badge&logo=ApacheCassandra&logoColor=blue) 
 ![FastAPI](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue) 
+![React](https://img.shields.io/badge/React-royalblue?style=for-the-badge&logo=React&logoColor=white) 
 ![Flask](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black)
 ![Docker](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 ![PostgreSQL](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
