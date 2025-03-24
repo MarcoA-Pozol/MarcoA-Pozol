@@ -11,15 +11,15 @@
 ![Docker](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 ![PostgreSQL](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
 
-![MongoDB](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
-![Redis](https://img.shields.io/badge/AWS-333232?style=for-the-badge&logo=AmazonWebServices&logoColor=yellow) 
-![Jenkins](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=black) 
-![PyTest](https://img.shields.io/badge/Argo%20CD-white?style=for-the-badge&logo=Argo&logoColor=orange)
-![Tensorflow](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=black)
-![Swagger](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=0052CC)
+![MongoDB](https://img.shields.io/badge/MongoDB-6DB33F?style=for-the-badge&logo=MongoDB&logoColor=black) 
+![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=Redis&logoColor=red) 
+![Jenkins](https://img.shields.io/badge/Jenkins%20Batch-6DB33F?style=for-the-badge&logo=Jenkins&logoColor=black) 
+![PyTest](https://img.shields.io/badge/Pytest%20CD-white?style=for-the-badge&logo=Pytest&logoColor=orange)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=Swagger&logoColor=green)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoA-Pozol&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoA-Pozol&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoA-Pozol&layout=pie&theme=purple)](https://github.com/anuraghazra/github-readme-stats)
 
