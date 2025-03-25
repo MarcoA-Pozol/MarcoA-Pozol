@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/MarcoA-Pozol"><img
+      src="https://readme-typing-svg.herokuapp.com/?lines=FullStack%20developer;Data%20Analyst;Code%20Enjoyer;Love%20Building%20And%20Designing&font=Monospace&center=true&width=650&height=120&color=rgb(80, 30, 90)&vCenter=true&size=40%22"></a>
+</p>
 
 🚀 Hi, my name´s Marco Antonio, and I am a passionate FullStack developer and Software Engineer who loves to code and contribute, help others, learn from others and keep building solutions for different fields of the technology, I´m glad you could contribute with me, I put my projects in disposition for you, wether to learn or give me feedback, both are well, feel free to run over my projects and give me a fresh idea!
 
