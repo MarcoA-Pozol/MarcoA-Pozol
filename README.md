@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/MarcoA-Pozol"><img
-      src="https://readme-typing-svg.herokuapp.com/?lines=FullStack%20developer;Data%20Analyst;Code%20Enjoyer;Love%20Building%20And%20Designing&font=Monospace&center=true&width=650&height=120&color=rgb(80, 30, 90)&vCenter=true&size=40%22"></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3D5FF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=FullStack+Developer+%F0%9F%9A%80;Systems+Engineer+%E2%9A%99%EF%B8%8F;Love+coding+%E2%99%A5" alt="Typing SVG" /></a>
 
 🚀 Hi, my name´s Marco Antonio, and I am a passionate FullStack developer and Software Engineer who loves to code and contribute, help others, learn from others and keep building solutions for different fields of the technology, I´m glad you could contribute with me, I put my projects in disposition for you, wether to learn or give me feedback, both are well, feel free to run over my projects and give me a fresh idea!
 
