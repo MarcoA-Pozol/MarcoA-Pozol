@@ -4,14 +4,6 @@
 
 <img align="center" width="1500" src="https://thumbs.gfycat.com/TartThreadbareChinchilla-size_restricted.gif" />
 
-----------------------
-
-### Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=MarcoA-Pozol&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarcoA-Pozol&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoA-Pozol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### Stack ♥  
 
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
@@ -28,8 +20,11 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white)
 
+### Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoA-Pozol&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api?username=MarcoA-Pozol&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MarcoA-Pozol&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoA-Pozol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ----------------------
 
