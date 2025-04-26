@@ -36,3 +36,6 @@
 | Operating Systems: | 
 |-| 
 | ![Linux Ubuntu](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=3D03A7) |
+
+## 🔢 Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{MarcoA-Pozol}/count.svg)
