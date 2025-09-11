@@ -9,6 +9,7 @@
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-4E9BCD?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![React](https://img.shields.io/badge/React-royalblue?style=for-the-badge&logo=React&logoColor=white) 
+![Vue](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=React&logoColor=royalblue) 
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Python&logoColor=blue)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=royalblue) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white) 
@@ -33,9 +34,3 @@
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=marcoantoniopozolnarciso@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="[https://www.linkedin.com/in/marco-antonio-pozol-narciso-950106320/]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-| Operating Systems: | 
-|-| 
-| ![Linux Ubuntu](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=3D03A7) |
-
-## 🔢 Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/{MarcoA-Pozol}/count.svg)
