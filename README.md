@@ -6,7 +6,7 @@
 
 ### Stack ♥  
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow) 
-![AWS](https://img.shields.io/badge/amazon-aws-blue?style=for-the-badge&logo=Python&logoColor=#2088FF) 
+![AWS](https://img.shields.io/badge/amazon-aws-#2088FF?style=for-the-badge&logo=amazon-aws&logoColor=#2088FF) 
 ![GitHub Actions](https://shields.io)
 ![Flutter](https://shields.io)
 
