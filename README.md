@@ -6,9 +6,9 @@
 
 ### Stack ♥  
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow) 
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AWS&logoColor=orange) 
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
+![AWS](https://shields.io)
+![GitHub Actions](https://shields.io)
+![Flutter](https://shields.io)
 
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-4E9BCD?style=for-the-badge&logo=FastAPI&logoColor=white)
