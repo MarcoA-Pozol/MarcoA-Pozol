@@ -6,7 +6,7 @@
 
 ### Stack ♥  
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow) 
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AWS&logoColor=orange) 
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
 
