@@ -1,10 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3D5FF7&background=FFFFFF00&vCenter=true&width=435&lines=FullStack+Developer+%F0%9F%9A%80;Systems+Engineer+%E2%9A%99%EF%B8%8F;Love+coding+%E2%99%A5" alt="Typing SVG" /></a>
 
-🚀 FullStack Engineer | System Admin | DB Architect | Python | RESTful APIs | Linux Based Servers | SQL | AWS & Cloud | AI | Automation
+🚀 FullStack Developer | Cloud Integration | Distributed Systems | Process Automation 
 
 <img align="center" width="1500" src="https://thumbs.gfycat.com/TartThreadbareChinchilla-size_restricted.gif" />
 
 ### Stack ♥  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow) 
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
 
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-4E9BCD?style=for-the-badge&logo=FastAPI&logoColor=white)
