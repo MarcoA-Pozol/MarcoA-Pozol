@@ -4,11 +4,11 @@
 
 <img align="center" width="1500" src="https://thumbs.gfycat.com/TartThreadbareChinchilla-size_restricted.gif" />
 
-### Stack ♥  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow) 
-![AWS](https://img.shields.io/badge/amazon-aws-#2088FF?style=for-the-badge&logo=amazon-aws&logoColor=#2088FF) 
-![GitHub Actions](https://shields.io)
-![Flutter](https://shields.io)
+### Experienced in:  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-4E9BCD?style=for-the-badge&logo=FastAPI&logoColor=white)
