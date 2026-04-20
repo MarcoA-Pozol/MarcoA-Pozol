@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3D5FF7&background=FFFFFF00&vCenter=true&width=435&lines=FullStack+Developer+%F0%9F%9A%80;Cloud+Integration+%E2%9A%99%EF%B8%8F;Distributed+Systems+%E2%99%A5" alt="Typing SVG" /></a>
 
-🚀 FullStack Developer | Cloud Integration | Distributed Systems | Process Automation 
+🚀 FullStack Developer | Cloud Integration | Distributed Systems | Process Automation | Serverless Architecture
 
 <img align="center" width="1500" src="https://thumbs.gfycat.com/TartThreadbareChinchilla-size_restricted.gif" />
 
