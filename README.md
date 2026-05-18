@@ -1,40 +1,93 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3D5FF7&background=FFFFFF00&vCenter=true&width=435&lines=FullStack+Developer+%F0%9F%9A%80;Cloud+Integration+%E2%9A%99%EF%B8%8F;Distributed+Systems+%E2%99%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4F7DF3&center=true&vCenter=true&width=700&lines=Senior+FullStack+Developer+🚀;C%23+%7C+ASP.NET+%7C+.NET+Expert+⚡;Cloud+Architecture+%26+Distributed+Systems+☁️;Python+%7C+FastAPI+%7C+AWS+%7C+Docker+🐍" alt="Typing SVG" />
+</a>
 
-🚀 FullStack & Cloud Developer | Python Speciallist | Cloud Integration | Distributed Systems | Process Automation | Serverless Architecture
+# 🚀 Marco Antonio Pozol Narciso
 
-<img align="center" width="1500" src="https://thumbs.gfycat.com/TartThreadbareChinchilla-size_restricted.gif" />
+### Senior FullStack Developer | Cloud Solutions Engineer | Distributed Systems | Process Automation | Serverless Architecture
 
-### Experienced in:  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=gold)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+💡 Specialized in building scalable backend systems with **C#**, **ASP.NET**, **.NET**, **Entity Framework**, and **Clean Architecture**.
 
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=blue) 
-![FastAPI](https://img.shields.io/badge/FastAPI-4E9BCD?style=for-the-badge&logo=FastAPI&logoColor=white)
-![React](https://img.shields.io/badge/React-royalblue?style=for-the-badge&logo=React&logoColor=white) 
-![Vue](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=React&logoColor=royalblue) 
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Python&logoColor=blue)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=royalblue) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white) 
+⚡ Strong experience designing enterprise-grade applications, REST APIs, cloud-native services, and automation workflows.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-6DB33F?style=for-the-badge&logo=MongoDB&logoColor=black) 
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=red) 
-![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=orange) 
-![PyTest](https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Pytest&logoColor=purple)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white)
+🐍 Complemented by solid experience with **Python**, **FastAPI**, **AWS**, **Docker**, and modern frontend development using **React**.
 
-### Github Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=MarcoA-Pozol&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarcoA-Pozol&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoA-Pozol&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="center" width="100%" src="https://thumbs.gfycat.com/TartThreadbareChinchilla-size_restricted.gif" />
 
-----------------------
+---
 
-### <img align="center" width="70" src="https://i.pinimg.com/originals/0d/c9/68/0dc968448592a7d533096b74c263cc40.gif" /> Contact with me
+# 🛠 Tech Stack
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=marcoantoniopozolnarciso@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[https://www.linkedin.com/in/marco-antonio-pozol-narciso-950106320/]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 🔥 Core Expertise
 
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=codefactor&logoColor=white)
+
+---
+
+## ⚙️ Strong Complementary Experience
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 🧩 Additional Technologies
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+# 🌍 Languages
+
+- 🇲🇽 Spanish — Native
+- 🇺🇸 English — Professional Working Proficiency
+- 🇨🇳 Chinese — Basic Learning
+- 🇩🇪 German — Basic Learning
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoA-Pozol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoA-Pozol&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoA-Pozol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=marcoantoniopozolnarciso@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/marco-antonio-pozol-narciso-950106320/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarcoA-Pozol&style=for-the-badge&color=blue" />
+</p>
