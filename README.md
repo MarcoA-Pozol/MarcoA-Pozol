@@ -48,26 +48,6 @@
 
 ---
 
-## 🧩 Additional Technologies
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
----
-
-# 🌍 Languages
-
-- 🇲🇽 Spanish — Native
-- 🇺🇸 English — Professional Working Proficiency
-- 🇨🇳 Chinese — Basic Learning
-- 🇩🇪 German — Basic Learning
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -83,13 +63,6 @@
 </p>
 
 ---
-
-# 🤝 Connect With Me
-
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=marcoantoniopozolnarciso@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/marco-antonio-pozol-narciso-950106320/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
