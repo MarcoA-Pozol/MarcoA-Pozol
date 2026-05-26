@@ -1,13 +1,7 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4F7DF3&center=true&vCenter=true&width=700&lines=Senior+FullStack+Developer+🚀;C%23+%7C+ASP.NET+%7C+.NET+Expert+⚡;Cloud+Architecture+%26+Distributed+Systems+☁️;Python+%7C+FastAPI+%7C+AWS+%7C+Docker+🐍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4F7DF3&center=true&vCenter=true&width=700&lines=ASP.NET+Developer;" alt="Typing SVG" />
 </a>
 
-### ASP.NET Developer
-💡 Specialized in building scalable backend systems with **C#**, **ASP.NET**, **.NET**, **Entity Framework**, and **Clean Architecture**.
-
-⚡ Strong experience designing enterprise-grade applications, REST APIs, cloud-native services, and automation workflows.
-
-🐍 Complemented by solid experience with **Python**, **FastAPI**, **AWS**, **Docker**, and modern frontend development using **React**.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoA-Pozol&theme=tokyonight&hide_border=true" />
