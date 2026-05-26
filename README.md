@@ -12,6 +12,15 @@
 
 🐍 Complemented by solid experience with **Python**, **FastAPI**, **AWS**, **Docker**, and modern frontend development using **React**.
 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoA-Pozol&theme=2077" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoA-Pozol&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcoA-Pozol&theme=2077" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoA-Pozol&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcoA-Pozol&theme=2077&utcOffset=8" />
+
+
 ---
 
 <img align="center" width="100%" src="https://thumbs.gfycat.com/TartThreadbareChinchilla-size_restricted.gif" />
