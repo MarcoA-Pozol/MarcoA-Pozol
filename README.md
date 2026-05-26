@@ -2,16 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4F7DF3&center=true&vCenter=true&width=700&lines=Senior+FullStack+Developer+🚀;C%23+%7C+ASP.NET+%7C+.NET+Expert+⚡;Cloud+Architecture+%26+Distributed+Systems+☁️;Python+%7C+FastAPI+%7C+AWS+%7C+Docker+🐍" alt="Typing SVG" />
 </a>
 
-# 🚀 Marco Antonio Pozol Narciso
-
-### Senior FullStack Developer | Cloud Solutions Engineer | Distributed Systems | Process Automation | Serverless Architecture
-
+### ASP.NET Developer
 💡 Specialized in building scalable backend systems with **C#**, **ASP.NET**, **.NET**, **Entity Framework**, and **Clean Architecture**.
 
 ⚡ Strong experience designing enterprise-grade applications, REST APIs, cloud-native services, and automation workflows.
 
 🐍 Complemented by solid experience with **Python**, **FastAPI**, **AWS**, **Docker**, and modern frontend development using **React**.
 
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoA-Pozol&theme=2077" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoA-Pozol&theme=2077" />
@@ -19,6 +17,7 @@
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoA-Pozol&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcoA-Pozol&theme=2077&utcOffset=8" />
+</div>
 
 
 ---
