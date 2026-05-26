@@ -1,8 +1,3 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4F7DF3&center=true&vCenter=true&width=700&lines=ASP.NET+Developer;" alt="Typing SVG" />
-</a>
-
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoA-Pozol&theme=tokyonight&hide_border=true" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoA-Pozol&theme=2077" />
@@ -14,16 +9,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcoA-Pozol&theme=2077&utcOffset=8" />
 </div>
 
-
----
-
-<img align="center" width="100%" src="https://thumbs.gfycat.com/TartThreadbareChinchilla-size_restricted.gif" />
-
----
-
-# 🛠 Tech Stack
-
-## 🔥 Core Expertise
+## Core Expertise
 
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -31,27 +17,11 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=codefactor&logoColor=white)
 
----
 
-## ⚙️ Strong Complementary Experience
+## Strong Complementary Experience
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-
-
----
-<a href="https://www.linkedin.com/in/marco-antonio-pozol-narciso-950106320/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarcoA-Pozol&style=for-the-badge&color=blue" />
-</p>
