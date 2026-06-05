@@ -4,7 +4,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcoA-Pozol&theme=2077" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoA-Pozol&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoA-Pozol&theme=2077" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcoA-Pozol&theme=2077&utcOffset=8" />
 </div>
 
 ## Core Expertise
