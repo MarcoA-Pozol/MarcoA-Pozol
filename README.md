@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoA-Pozol&theme=tokyonight&hide_border=true" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoA-Pozol&theme=2077" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoA-Pozol&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcoA-Pozol&theme=2077" />
