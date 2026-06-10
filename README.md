@@ -4,7 +4,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcoA-Pozol&theme=2077" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoA-Pozol&theme=2077" />
-  <img src="https://streak-stats.demolab.com?user=MarcoA-Pozol&theme=2077&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MarcoA-Pozol&theme=dark&ring=4B0082&fire=00FFFF&currStreakLabel=4B0082&hide_border=true" />
 </div>
 
 ## Core Expertise
